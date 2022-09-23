@@ -1,0 +1,9 @@
+{
+  "module": "hello-world",
+  "git": "https://gitlab.com/anilmisirlioglu/hello-world",
+  "source": [
+    "https://gitlab.com/anilmisirlioglu/hello-world",
+    "https://gitlab.com/anilmisirlioglu/hello-world/tree/main{/dir}",
+    "https://gitlab.com/anilmisirlioglu/hello-world/tree/main{/dir}/{file}#L{line}"
+  ]
+}
